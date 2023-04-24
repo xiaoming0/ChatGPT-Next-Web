@@ -95,7 +95,7 @@ One-Click to deploy well-designed ChatGPT web UI on Vercel.
 If you have deployed your own project with just one click following the steps above, you may encounter the issue of "Updates Available" constantly showing up. This is because Vercel will create a new project for you by default instead of forking this project, resulting in the inability to detect updates correctly.
 
 We recommend that you follow the steps below to re-deploy:
-
+ 
 - Delete the original repository;
 - Use the fork button in the upper right corner of the page to fork this project;
 - Choose and deploy in Vercel again, [please see the detailed tutorial](./docs/vercel-cn.md).
